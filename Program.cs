@@ -14,7 +14,13 @@ namespace DSusingStackandQueue
                 linkedListStack.push(30);
                 linkedListStack.push(56);
                 linkedListStack.Display();
-            }
+                linkedListStack.peek();
+                linkedListStack.Display();
+                linkedListStack.pop();
+                linkedListStack.Display();
+                linkedListStack.isEmpty();
+                linkedListStack.Display();
+        }
         }
     }
 
