@@ -8,7 +8,7 @@ namespace DSusingStackandQueue
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to stack and queue problem");
+                Console.WriteLine("Welcome to stack and queue problem");
                 LinkedListStack linkedListStack = new LinkedListStack();
                 linkedListStack.push(70);
                 linkedListStack.push(30);
@@ -20,6 +20,11 @@ namespace DSusingStackandQueue
                 linkedListStack.Display();
                 linkedListStack.isEmpty();
                 linkedListStack.Display();
+                LinkedListQueue linkedListQueue = new LinkedListQueue();
+                linkedListQueue.Enqueue(56);
+                linkedListQueue.Enqueue(30);
+                linkedListQueue.Enqueue(70);
+                linkedListQueue.Display();
         }
         }
     }
