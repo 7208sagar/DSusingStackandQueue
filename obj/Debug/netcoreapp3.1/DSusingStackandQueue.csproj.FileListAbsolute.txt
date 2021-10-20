@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\neww\DSusingStackandQueue\DSusingStackandQueue\bin\Debug\netcoreapp3.1\DSusingStackandQueue.exe
+C:\Users\hp\Desktop\neww\DSusingStackandQueue\DSusingStackandQueue\bin\Debug\netcoreapp3.1\DSusingStackandQueue.deps.json
+C:\Users\hp\Desktop\neww\DSusingStackandQueue\DSusingStackandQueue\bin\Debug\netcoreapp3.1\DSusingStackandQueue.runtimeconfig.json
+C:\Users\hp\Desktop\neww\DSusingStackandQueue\DSusingStackandQueue\bin\Debug\netcoreapp3.1\DSusingStackandQueue.runtimeconfig.dev.json
+C:\Users\hp\Desktop\neww\DSusingStackandQueue\DSusingStackandQueue\bin\Debug\netcoreapp3.1\DSusingStackandQueue.dll
+C:\Users\hp\Desktop\neww\DSusingStackandQueue\DSusingStackandQueue\bin\Debug\netcoreapp3.1\DSusingStackandQueue.pdb
+C:\Users\hp\Desktop\neww\DSusingStackandQueue\DSusingStackandQueue\obj\Debug\netcoreapp3.1\DSusingStackandQueue.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\neww\DSusingStackandQueue\DSusingStackandQueue\obj\Debug\netcoreapp3.1\DSusingStackandQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\neww\DSusingStackandQueue\DSusingStackandQueue\obj\Debug\netcoreapp3.1\DSusingStackandQueue.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\neww\DSusingStackandQueue\DSusingStackandQueue\obj\Debug\netcoreapp3.1\DSusingStackandQueue.AssemblyInfo.cs
+C:\Users\hp\Desktop\neww\DSusingStackandQueue\DSusingStackandQueue\obj\Debug\netcoreapp3.1\DSusingStackandQueue.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\neww\DSusingStackandQueue\DSusingStackandQueue\obj\Debug\netcoreapp3.1\DSusingStackandQueue.dll
+C:\Users\hp\Desktop\neww\DSusingStackandQueue\DSusingStackandQueue\obj\Debug\netcoreapp3.1\DSusingStackandQueue.pdb
+C:\Users\hp\Desktop\neww\DSusingStackandQueue\DSusingStackandQueue\obj\Debug\netcoreapp3.1\DSusingStackandQueue.genruntimeconfig.cache
