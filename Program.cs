@@ -25,6 +25,9 @@ namespace DSusingStackandQueue
                 linkedListQueue.Enqueue(30);
                 linkedListQueue.Enqueue(70);
                 linkedListQueue.Display();
+                Console.WriteLine("\n After Deque remaining elements is = ");
+                linkedListQueue.Dequeue();
+                linkedListQueue.Display();
         }
         }
     }
